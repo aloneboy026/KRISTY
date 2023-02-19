@@ -9,7 +9,7 @@ from KRISTY import StartTime, dispatcher
 from KRISTY.modules.disable import DisableAbleCommandHandler
 from KRISTY.modules.helper_funcs.chat_status import sudo_plus
 
-PING_IMG = "https://telegra.ph/file/17fce64cf1e4dda004ecd.jpg"
+PING_IMG = "https://te.legra.ph/file/9347b1310e8e08f4313cd.jpg"
 
 sites_list = {
     "Telegram": "https://api.telegram.org",
