@@ -91,7 +91,7 @@ def get_readable_time(seconds: int) -> str:
 DONATION_LINK = "https://t.me/I_AM_PRO_KING"
 
 start_txt = """
-ʜᴇʏ🥀 `{}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ!!
+ʜᴇʏ🥀 `{https://te.legra.ph/file/48b13b353682f78e1731d.jpg}`, ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ!!
 """
 
 PM_START_TEXT = """
