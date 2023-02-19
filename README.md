@@ -15,7 +15,7 @@
 <a href="https://telegram.me/KRISTY_MF"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ᴀɴɢᴇʟ](httls://t.me/TheAngeXrobot).
+### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ᴀɴɢᴇʟ](https://t.me/TheAngeXrobot).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
