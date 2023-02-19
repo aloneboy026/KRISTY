@@ -95,7 +95,7 @@ if ENV:
     ERROR_LOG = os.environ.get("ERROR_LOG", None)
     API_HASH = os.environ.get("API_HASH", None)
     STRING_SESSION = os.environ.get("STRING_SESSION", None)
-    START_STICKER = os.environ.get("START_STICKER", None)
+    START_STICKER = os.environ.get("START_STICKER", "CAACAgUAAx0Cbe6hqgACHdtj8lOXG4QvYpkUb9_DSEDRLXe-WAACGgsAAqjhkFd-P_kRwV5Qbi4E")
     STRICT_GMUTE = os.environ.get('STRICT_GMUTE', True)
     DB_URL = os.environ.get("DATABASE_URL")
     DB_URL = DB_URL.replace("postgres://", "postgresql://", 1)
