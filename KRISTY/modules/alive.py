@@ -10,15 +10,15 @@ from KRISTY import telethn as tbot
 from KRISTY.events import register
 
 PHOTO = [
-    "https://telegra.ph/file/ef70930936953bf52d97f.jpg",
-    "https://telegra.ph/file/ef70930936953bf52d97f.jpg",
+    "https://te.legra.ph/file/7b2fc2949637440a190d7.jpg",
+    "https://te.legra.ph/file/7b2fc2949637440a190d7.jpg",
 ]
 
 
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ {dispatcher.bot.first_name}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀs​ : [ALONE](https://t.me/{OWNER_USERNAME})\n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀs​ : [MONDO](https://t.me/{OWNER_USERNAME})\n\n"
     TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
     TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
