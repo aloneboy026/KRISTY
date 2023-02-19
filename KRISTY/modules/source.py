@@ -17,7 +17,7 @@ async def repo(_, message: Message):
 
 ɪ ᴀᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴀʟᴏɴᴇ](https://t.me/{OWNER_USERNAME})
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴍᴏɴᴅᴏ](https://t.me/{OWNER_USERNAME})
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
@@ -28,8 +28,8 @@ async def repo(_, message: Message):
                 [
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
-                        "sᴏᴜʀᴄᴇ",
-                        url="https://github.com/ALTRON-XD/KRISTY",
+                        "sɪɢʜᴛ",
+                        url="https://te.legra.ph/file/ddcb156251c1624d09253.mp4",
                     ),
                 ]
             ]
